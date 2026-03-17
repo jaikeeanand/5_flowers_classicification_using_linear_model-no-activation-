@@ -1,0 +1,2 @@
+# 5_flowers_classicification_using_linear_model-no-activation-
+5_flowers_classicification_using_linear_model(without any activation function)
